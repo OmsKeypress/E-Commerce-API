@@ -1,0 +1,128 @@
+*******************************************************************
+Method :DeleteProduct
+Request UTC :12-09-2023 06:24:57 AM
+Response UTC :12-09-2023 06:24:57 AM
+Request:{"Item1":256,"Item2":2}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :12-09-2023 06:25:15 AM
+Response UTC :12-09-2023 06:25:15 AM
+Request:{"Item1":256,"Item2":2}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :12-09-2023 06:25:34 AM
+Response UTC :12-09-2023 06:25:34 AM
+Request:{"Item1":256,"Item2":2}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :12-09-2023 06:26:00 AM
+Response UTC :12-09-2023 06:26:01 AM
+Request:{"Item1":256,"Item2":2}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :12-09-2023 06:26:08 AM
+Response UTC :12-09-2023 06:26:08 AM
+Request:{"Item1":963,"Item2":2}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :12-09-2023 06:27:48 AM
+Response UTC :12-09-2023 06:27:48 AM
+Request:{"ProductId":963,"Quentity":2}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :12-09-2023 06:28:03 AM
+Response UTC :12-09-2023 06:28:03 AM
+Request:{"ProductId":5263,"Quentity":2}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :12-09-2023 06:28:07 AM
+Response UTC :12-09-2023 06:28:07 AM
+Request:{"ProductId":5263,"Quentity":4}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :12-09-2023 06:28:20 AM
+Response UTC :12-09-2023 06:28:20 AM
+Request:{"ProductId":941,"Quentity":4}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :12-09-2023 06:28:24 AM
+Response UTC :12-09-2023 06:28:24 AM
+Request:{"ProductId":3012,"Quentity":4}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :12-09-2023 06:28:39 AM
+Response UTC :12-09-2023 06:28:39 AM
+Request:{"ProductId":1023,"Quentity":9}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :CustomerCart
+Request UTC :12-09-2023 06:28:49 AM
+Response UTC :12-09-2023 06:28:49 AM
+Request:2
+Response:{"Products":[{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":2,"Amount":130.00},{"Product_Name":"Printed Womens Kurta","DiscountedPrice":399.00,"Quentity":6,"Amount":2394.00},{"Product_Name":"Solid Women Palazzos","DiscountedPrice":799.00,"Quentity":4,"Amount":3196.00},{"Product_Name":"Instant Desert Mix - Gulab Jamun","DiscountedPrice":65.00,"Quentity":4,"Amount":260.00},{"Product_Name":"Detergent Powder Front Load","DiscountedPrice":849.00,"Quentity":9,"Amount":7641.00}],"Total Amount":13621.0}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :CustomerCart
+Request UTC :12-09-2023 06:55:14 AM
+Response UTC :12-09-2023 06:55:19 AM
+Request:2
+Response:{"Products":[{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":2,"Amount":130.00},{"Product_Name":"Printed Womens Kurta","DiscountedPrice":399.00,"Quentity":6,"Amount":2394.00},{"Product_Name":"Solid Women Palazzos","DiscountedPrice":799.00,"Quentity":4,"Amount":3196.00},{"Product_Name":"Instant Desert Mix - Gulab Jamun","DiscountedPrice":65.00,"Quentity":4,"Amount":260.00},{"Product_Name":"Detergent Powder Front Load","DiscountedPrice":849.00,"Quentity":9,"Amount":7641.00}],"Total Amount":13621.0}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :12-09-2023 06:56:31 AM
+Response UTC :12-09-2023 06:56:31 AM
+Request:{"ProductId":1023,"Quentity":9}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :CustomerCart
+Request UTC :12-09-2023 06:56:57 AM
+Response UTC :12-09-2023 06:56:57 AM
+Request:2
+Response:{"Products":[{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":2,"Amount":130.00},{"Product_Name":"Printed Womens Kurta","DiscountedPrice":399.00,"Quentity":6,"Amount":2394.00},{"Product_Name":"Solid Women Palazzos","DiscountedPrice":799.00,"Quentity":4,"Amount":3196.00},{"Product_Name":"Instant Desert Mix - Gulab Jamun","DiscountedPrice":65.00,"Quentity":4,"Amount":260.00},{"Product_Name":"Detergent Powder Front Load","DiscountedPrice":849.00,"Quentity":18,"Amount":15282.00}],"Total Amount":21262.0}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :12-09-2023 06:57:19 AM
+Response UTC :12-09-2023 06:57:19 AM
+Request:{"Item1":963,"Item2":2}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+

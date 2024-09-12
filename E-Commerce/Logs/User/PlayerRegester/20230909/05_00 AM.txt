@@ -1,0 +1,10 @@
+*******************************************************************
+Request UTC: 09-09-2023 05:57:43 AM
+Response UTC: 09-09-2023 05:59:04 AM
+HTTP Status Code: OK
+Request: {"CustomerName":"OS_11","Password":"15146","MobileNo":"9309718094","Email":"Os@Gmail.com","Info":"","Ip":""}
+Response:{"Status":{"Message":"You have successfully registered","Code":0}}
+OTPRException:NO SYSTEM ERROR
+Ip Info Exception:NO IP INFO ERROR
+Hub Exception:NO SIGNALR ERROR
+

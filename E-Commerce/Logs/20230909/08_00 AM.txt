@@ -1,0 +1,80 @@
+*******************************************************************
+Method :DeleteProduct
+Request UTC :09-09-2023 08:41:58 AM
+Response UTC :09-09-2023 08:41:59 AM
+Request:{"PID":98}
+Response:{"Status":{"Message":"Product delete Successfully","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :09-09-2023 08:43:30 AM
+Response UTC :09-09-2023 08:43:30 AM
+Request:{"PID":98}
+Response:{"Status":{"Message":"Product delete Successfully","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :09-09-2023 08:45:22 AM
+Response UTC :09-09-2023 08:45:22 AM
+Request:{"PID":98}
+Response:{"Status":{"Message":"Product does not exists.","Code":1}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :09-09-2023 08:45:29 AM
+Response UTC :09-09-2023 08:45:29 AM
+Request:{"PID":98}
+Response:{"Status":{"Message":"Product does not exists.","Code":1}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :UpdateProduct
+Request UTC :09-09-2023 08:51:48 AM
+Response UTC :09-09-2023 08:51:53 AM
+Request:{"PID":93,"Product_Name":"zebra magic car","Brand":"Toyz","Price":2199.00,"DiscountedPrice":1199.00,"Category":"Toys  Sports & Games","Quentity":" 1 pcs","ModifiedBy":12}
+Response:{"Status":{"Message":"Product Updated Successfully","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :UpdateProduct
+Request UTC :09-09-2023 08:53:06 AM
+Response UTC :09-09-2023 08:53:11 AM
+Request:{"PID":93,"Product_Name":"zebra magic car","Brand":"Toys","Price":2199.00,"DiscountedPrice":1199.00,"Category":"Toys  Sports & Games","Quentity":" 1 pcs","ModifiedBy":12}
+Response:{"Status":{"Message":"Product Updated Successfully","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :UpdateProduct
+Request UTC :09-09-2023 08:53:26 AM
+Response UTC :09-09-2023 08:53:26 AM
+Request:{"PID":93,"Product_Name":"zebra magic car","Brand":"Toys","Price":2199.00,"DiscountedPrice":1199.00,"Category":"Toys  Sports & Games","Quentity":" 1 pcs","ModifiedBy":12}
+Response:{"Status":{"Message":"Please Make Some Changes","Code":1}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :UpdateProduct
+Request UTC :09-09-2023 08:53:43 AM
+Response UTC :09-09-2023 08:53:43 AM
+Request:{"PID":93,"Product_Name":"zebra magic car","Brand":"Toys","Price":2199.00,"DiscountedPrice":1199.00,"Category":"Toys  Sports & Games","Quentity":" 1 pcs","ModifiedBy":12}
+Response:{"Status":{"Message":"Please Make Some Changes","Code":1}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :UpdateProduct
+Request UTC :09-09-2023 08:53:44 AM
+Response UTC :09-09-2023 08:53:44 AM
+Request:{"PID":93,"Product_Name":"zebra magic car","Brand":"Toys","Price":2199.00,"DiscountedPrice":1199.00,"Category":"Toys  Sports & Games","Quentity":" 1 pcs","ModifiedBy":12}
+Response:{"Status":{"Message":"Please Make Some Changes","Code":1}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :UpdateProduct
+Request UTC :09-09-2023 08:59:21 AM
+Response UTC :09-09-2023 08:59:21 AM
+Request:{"PID":93,"Product_Name":"zebra magic car","Brand":"ToyZ","Price":2199.00,"DiscountedPrice":1199.00,"Category":"Toys  Sports & Games","Quentity":" 1 pcs","ModifiedBy":12}
+Response:{"Status":{"Message":"Product Updated Successfully","Code":0}}
+Exception:NO SYSTEM ERROR
+

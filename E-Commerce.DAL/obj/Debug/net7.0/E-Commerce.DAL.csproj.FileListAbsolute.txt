@@ -1,0 +1,15 @@
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\bin\Debug\net7.0\E-Commerce.DAL.deps.json
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\bin\Debug\net7.0\E-Commerce.DAL.dll
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\bin\Debug\net7.0\E-Commerce.DAL.pdb
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\bin\Debug\net7.0\E-Commerce.Model.dll
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\bin\Debug\net7.0\E-Commerce.Model.pdb
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net7.0\E-Commerce.DAL.csproj.AssemblyReference.cache
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net7.0\E-Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net7.0\E-Commerce.DAL.AssemblyInfoInputs.cache
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net7.0\E-Commerce.DAL.AssemblyInfo.cs
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net7.0\E-Commerce.DAL.csproj.CoreCompileInputs.cache
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net7.0\E-Commerce.DAL.dll
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net7.0\refint\E-Commerce.DAL.dll
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net7.0\E-Commerce.DAL.pdb
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net7.0\ref\E-Commerce.DAL.dll
+D:\Om S\My Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net7.0\E-Commer.23145E8C.Up2Date

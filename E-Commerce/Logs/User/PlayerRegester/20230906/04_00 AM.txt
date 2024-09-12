@@ -1,0 +1,40 @@
+*******************************************************************
+Request UTC: 06-09-2023 04:23:31 AM
+Response UTC: 06-09-2023 04:27:54 AM
+HTTP Status Code: BadRequest
+Request: {"CustomerName":"OS_11","MobileNo":"9309718094","Email":"Os@Gmail.com","Password":"15146"}
+Response:{"Status":{"Message":"Somthing went wrong","Code":2}}
+OTPRException:{"ClassName":"System.Data.SqlClient.SqlException","Message":"Could not find stored procedure 'dbo.CheckPlayerRegester'.","Data":{"HelpLink.ProdName":"Microsoft SQL Server","HelpLink.ProdVer":"15.00.2000","HelpLink.EvtSrc":"MSSQLServer","HelpLink.EvtID":"2812","HelpLink.BaseHelpUrl":"https://go.microsoft.com/fwlink","HelpLink.LinkId":"20476","SqlError 1":"System.Data.SqlClient.SqlError: Could not find stored procedure 'dbo.CheckPlayerRegester'."},"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)\r\n   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)\r\n   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)\r\n   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)\r\n   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()\r\n   at System.Data.SqlClient.SqlDataReader.get_MetaData()\r\n   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)\r\n   at System.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader()\r\n   at System.Data.SqlClient.SqlCommand.InternalEndExecuteReader(IAsyncResult asyncResult, String endMethod)\r\n   at System.Data.SqlClient.SqlCommand.EndExecuteReaderInternal(IAsyncResult asyncResult)\r\n   at System.Data.SqlClient.SqlCommand.EndExecuteReader(IAsyncResult asyncResult)\r\n   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)\r\n--- End of stack trace from previous location ---\r\n   at E_Commerce.DAL.EcommerceRepository.CustomerRegester(CustomerRegesterReqModel model) in D:\\Om S\\My Projects\\E-Commerce\\E-Commerce.DAL\\EcommerceRepository.cs:line 151\r\n   at E_Commerce.BLL.EcommerceService.CustomerRegester(CustomerRegesterReqModel model) in D:\\Om S\\My Projects\\E-Commerce\\E-Commerce.BLL\\EcommerceService.cs:line 60\r\n   at E_Commerce.Controllers.LoginController.CustomerRegistraion(CustomerRegesterReqModel model) in D:\\Om S\\My Projects\\E-Commerce\\E-Commerce\\Controllers\\LoginController.cs:line 192","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":null,"HResult":-2146232060,"Source":"Core .Net SqlClient Data Provider","WatsonBuckets":null,"Errors":null,"ClientConnectionId":"fb35f47c-aeef-425b-bbe9-035b5e53d3ba"}
+Ip Info Exception:NO IP INFO ERROR
+Hub Exception:NO SIGNALR ERROR
+
+*******************************************************************
+Request UTC: 06-09-2023 04:28:27 AM
+Response UTC: 06-09-2023 04:28:35 AM
+HTTP Status Code: OK
+Request: {"CustomerName":"OS_11","MobileNo":"9309718094","Email":"Os@Gmail.com","Password":"15146"}
+Response:{"Status":{"Message":null,"Code":0}}
+OTPRException:NO SYSTEM ERROR
+Ip Info Exception:NO IP INFO ERROR
+Hub Exception:NO SIGNALR ERROR
+
+*******************************************************************
+Request UTC: 06-09-2023 04:31:16 AM
+Response UTC: 06-09-2023 04:31:37 AM
+HTTP Status Code: OK
+Request: {"CustomerName":"OS_11","MobileNo":"9309718094","Email":"Os@Gmail.com","Password":"15146"}
+Response:{"Status":{"Message":null,"Code":0}}
+OTPRException:NO SYSTEM ERROR
+Ip Info Exception:NO IP INFO ERROR
+Hub Exception:NO SIGNALR ERROR
+
+*******************************************************************
+Request UTC: 06-09-2023 04:34:22 AM
+Response UTC: 06-09-2023 04:34:29 AM
+HTTP Status Code: OK
+Request: {"CustomerName":"OS_11","MobileNo":"9309718094","Email":"Os@Gmail.com","Password":"15146"}
+Response:{"Status":{"Message":"Success","Code":0}}
+OTPRException:NO SYSTEM ERROR
+Ip Info Exception:NO IP INFO ERROR
+Hub Exception:NO SIGNALR ERROR
+

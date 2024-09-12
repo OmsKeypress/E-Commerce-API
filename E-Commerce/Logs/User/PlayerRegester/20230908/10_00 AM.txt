@@ -1,0 +1,10 @@
+*******************************************************************
+Request UTC: 08-09-2023 10:04:49 AM
+Response UTC: 08-09-2023 10:05:18 AM
+HTTP Status Code: OK
+Request: {"CustomerName":"Raghav","MobileNo":"329874651","Email":"Raghav@gmail.com","Password":"567@Raghu"}
+Response:{"Status":{"Message":"Success","Code":0}}
+OTPRException:NO SYSTEM ERROR
+Ip Info Exception:NO IP INFO ERROR
+Hub Exception:NO SIGNALR ERROR
+

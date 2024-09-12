@@ -1,0 +1,20 @@
+*******************************************************************
+Request UTC: 09-09-2023 06:03:19 AM
+Response UTC: 09-09-2023 06:03:20 AM
+HTTP Status Code: OK
+Request: {"CustomerName":"OS_11","Password":"15146","MobileNo":"9309718094","Email":"Os@Gmail.com","Info":"","Ip":""}
+Response:{"Status":{"Message":"Username is already exist","Code":2}}
+OTPRException:NO SYSTEM ERROR
+Ip Info Exception:NO IP INFO ERROR
+Hub Exception:NO SIGNALR ERROR
+
+*******************************************************************
+Request UTC: 09-09-2023 06:03:29 AM
+Response UTC: 09-09-2023 06:03:29 AM
+HTTP Status Code: OK
+Request: {"CustomerName":"OS_11","Password":"15146","MobileNo":"9309718094","Email":"Os@Gmail.com","Info":"","Ip":""}
+Response:{"Status":{"Message":"Username is already exist","Code":2}}
+OTPRException:NO SYSTEM ERROR
+Ip Info Exception:NO IP INFO ERROR
+Hub Exception:NO SIGNALR ERROR
+

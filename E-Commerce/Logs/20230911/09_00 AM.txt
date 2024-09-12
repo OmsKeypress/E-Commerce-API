@@ -1,0 +1,56 @@
+*******************************************************************
+Method :CustomerCart
+Request UTC :11-09-2023 09:03:41 AM
+Response UTC :11-09-2023 09:04:20 AM
+Request:2
+Response:{"Products":[]}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :CustomerCart
+Request UTC :11-09-2023 09:06:51 AM
+Response UTC :11-09-2023 09:06:51 AM
+Request:2
+Response:{"Products":[]}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :CustomerCart
+Request UTC :11-09-2023 09:07:30 AM
+Response UTC :11-09-2023 09:07:30 AM
+Request:2
+Response:{"Products":{"Item1":[{"Product_Name":"Instant Noodles - Masala","DiscountedPrice":12.00,"Quentity":12,"Amount":144.00},{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":2,"Amount":130.00},{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":2,"Amount":130.00},{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":2,"Amount":130.00}],"Item2":534.0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :CustomerCart
+Request UTC :11-09-2023 09:17:01 AM
+Response UTC :11-09-2023 09:17:01 AM
+Request:2
+Response:{"Products":[{"Product_Name":"Instant Noodles - Masala","DiscountedPrice":12.00,"Quentity":12,"Amount":144.00},{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":2,"Amount":130.00},{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":2,"Amount":130.00},{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":2,"Amount":130.00}],"Total Amount":534.0}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :CustomerCart
+Request UTC :11-09-2023 09:18:12 AM
+Response UTC :11-09-2023 09:18:12 AM
+Request:1
+Response:{"Products":[{"Product_Name":"Eggs","DiscountedPrice":168.00,"Quentity":3,"Amount":504.00},{"Product_Name":"Embassy Juice set of 6","DiscountedPrice":481.50,"Quentity":4,"Amount":1926.00},{"Product_Name":"Instant Noodles - Masala","DiscountedPrice":12.00,"Quentity":12,"Amount":144.00},{"Product_Name":"Instant Noodles - Masala","DiscountedPrice":12.00,"Quentity":12,"Amount":144.00}],"Total Amount":2718.0}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 09:59:31 AM
+Response UTC :11-09-2023 09:59:32 AM
+Request:{"Item1":0,"Item2":2}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 09:59:53 AM
+Response UTC :11-09-2023 09:59:53 AM
+Request:{"Item1":0,"Item2":2}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+

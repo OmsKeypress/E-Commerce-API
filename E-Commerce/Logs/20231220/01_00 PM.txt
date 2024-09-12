@@ -1,0 +1,8 @@
+*******************************************************************
+Method :AddProduct
+Request UTC :20-12-2023 01:18:02 PM
+Response UTC :20-12-2023 01:18:02 PM
+Request:{"Product_Name":"Polo T Shirt","Brand":"ZARA","Price":16000.00,"DiscountedPrice":12000.00,"Category":"T-Shirt","Quentity":" 1 pcs","CreatedBy":12}
+Response:{"Status":{"Message":"Product Already Exists","Code":1}}
+Exception:NO SYSTEM ERROR
+

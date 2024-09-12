@@ -1,0 +1,16 @@
+*******************************************************************
+Method :AddProduct
+Request UTC :09-09-2023 09:00:15 AM
+Response UTC :09-09-2023 09:00:15 AM
+Request:{"Product_Name":"Polo T Shirt","Brand":"ZARA","Price":16000.00,"DiscountedPrice":12000.00,"Category":"T-Shirt","Quentity":" 1 pcs","CreatedBy":12}
+Response:{"Status":{"Message":"Product Added Successfully","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProduct
+Request UTC :09-09-2023 09:09:30 AM
+Response UTC :09-09-2023 09:09:30 AM
+Request:{"Product_Name":"Polo T Shirt","Brand":"ZARA","Price":16000.00,"DiscountedPrice":12000.00,"Category":"T-Shirt","Quentity":" 1 pcs","CreatedBy":12}
+Response:{"Status":{"Message":"Product Already Exists","Code":1}}
+Exception:NO SYSTEM ERROR
+

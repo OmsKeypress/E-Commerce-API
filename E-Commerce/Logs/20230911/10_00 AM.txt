@@ -1,0 +1,136 @@
+*******************************************************************
+Method :CustomerCart
+Request UTC :11-09-2023 10:00:29 AM
+Response UTC :11-09-2023 10:00:29 AM
+Request:2
+Response:{"Products":[{"Product_Name":"Instant Noodles - Masala","DiscountedPrice":12.00,"Quentity":12,"Amount":144.00},{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":9,"Amount":585.00}],"Total Amount":729.0}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :CustomerCart
+Request UTC :11-09-2023 10:00:48 AM
+Response UTC :11-09-2023 10:00:48 AM
+Request:1
+Response:{"Products":[{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":7,"Amount":455.00}],"Total Amount":455.0}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:01:00 AM
+Response UTC :11-09-2023 10:01:00 AM
+Request:{"Item1":0,"Item2":2}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:04:38 AM
+Response UTC :11-09-2023 10:04:38 AM
+Request:{"Item1":0,"Item2":2}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:05:06 AM
+Response UTC :11-09-2023 10:05:06 AM
+Request:{"Item1":0,"Item2":1}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:05:22 AM
+Response UTC :11-09-2023 10:05:22 AM
+Request:{"Item1":0,"Item2":1}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:05:29 AM
+Response UTC :11-09-2023 10:05:29 AM
+Request:{"Item1":0,"Item2":1}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :CustomerCart
+Request UTC :11-09-2023 10:07:00 AM
+Response UTC :11-09-2023 10:07:00 AM
+Request:2
+Response:{"Products":[{"Product_Name":"Instant Noodles - Masala","DiscountedPrice":12.00,"Quentity":12,"Amount":144.00},{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":9,"Amount":585.00}],"Total Amount":729.0}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:07:13 AM
+Response UTC :11-09-2023 10:07:13 AM
+Request:{"Item1":0,"Item2":1}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:07:26 AM
+Response UTC :11-09-2023 10:07:26 AM
+Request:{"Item1":0,"Item2":1}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:07:33 AM
+Response UTC :11-09-2023 10:07:33 AM
+Request:{"Item1":0,"Item2":1}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:07:54 AM
+Response UTC :11-09-2023 10:07:54 AM
+Request:{"Item1":0,"Item2":1}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:12:21 AM
+Response UTC :11-09-2023 10:12:21 AM
+Request:{"Item1":0,"Item2":1}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:13:09 AM
+Response UTC :11-09-2023 10:13:09 AM
+Request:{"Item1":0,"Item2":1}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:16:22 AM
+Response UTC :11-09-2023 10:16:22 AM
+Request:{"Item1":0,"Item2":1}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:18:00 AM
+Response UTC :11-09-2023 10:18:00 AM
+Request:{"Item1":256,"Item2":1}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :DeleteProduct
+Request UTC :11-09-2023 10:18:19 AM
+Response UTC :11-09-2023 10:18:29 AM
+Request:{"Item1":256,"Item2":1}
+Response:{"Status":{"Message":"Product deleted from cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+

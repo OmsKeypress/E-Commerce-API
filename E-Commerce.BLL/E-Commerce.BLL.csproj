@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>E_Commerce.BLL</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\E-Commerce.DAL\E-Commerce.DAL.csproj" />
+    <ProjectReference Include="..\E-Commerce.Model\E-Commerce.Model.csproj" />
+  </ItemGroup>
+
+</Project>

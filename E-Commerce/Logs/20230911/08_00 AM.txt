@@ -1,0 +1,24 @@
+*******************************************************************
+Method :AddProductInCart
+Request UTC :11-09-2023 08:52:12 AM
+Response UTC :11-09-2023 08:52:12 AM
+Request:{"ProductId":963,"Quentity":2}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :CustomerCart
+Request UTC :11-09-2023 08:54:16 AM
+Response UTC :11-09-2023 08:54:50 AM
+Request:2
+Response:{"Status":{"Message":null,"Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :CustomerCart
+Request UTC :11-09-2023 08:56:03 AM
+Response UTC :11-09-2023 08:56:33 AM
+Request:2
+Response:{"Products":[{"Product_Name":"Instant Noodles - Masala","DiscountedPrice":12.00,"Quentity":12,"Amount":144.00,"TotalAmount":534.0},{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":2,"Amount":130.00,"TotalAmount":534.0},{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":2,"Amount":130.00,"TotalAmount":534.0},{"Product_Name":"Namkeen Khatta Mitha","DiscountedPrice":65.00,"Quentity":2,"Amount":130.00,"TotalAmount":534.0}]}
+Exception:NO SYSTEM ERROR
+

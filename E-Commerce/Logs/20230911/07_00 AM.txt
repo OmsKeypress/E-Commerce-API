@@ -1,0 +1,80 @@
+*******************************************************************
+Method :AddProductInCart
+Request UTC :11-09-2023 07:10:31 AM
+Response UTC :11-09-2023 07:10:59 AM
+Request:{"ProductId":10,"Quentity":3}
+Response:{"Status":{"Message":null,"Code":0}}
+Exception:{"ClassName":"System.Data.SqlClient.SqlException","Message":"The formal parameter \"@Message\" was not declared as an OUTPUT parameter, but the actual parameter passed in requested output.","Data":{"HelpLink.ProdName":"Microsoft SQL Server","HelpLink.ProdVer":"15.00.2000","HelpLink.EvtSrc":"MSSQLServer","HelpLink.EvtID":"8162","HelpLink.BaseHelpUrl":"https://go.microsoft.com/fwlink","HelpLink.LinkId":"20476","SqlError 1":"System.Data.SqlClient.SqlError: The formal parameter \"@Message\" was not declared as an OUTPUT parameter, but the actual parameter passed in requested output."},"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)\r\n   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)\r\n   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)\r\n   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)\r\n   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)\r\n   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)\r\n   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)\r\n   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)\r\n   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()\r\n   at E_Commerce.DAL.EcommerceRepository.AddProductInCart(AddProductInCartModel model, Int32 CustomerId) in D:\\Om S\\My Projects\\E-Commerce\\E-Commerce.DAL\\EcommerceRepository.cs:line 207\r\n   at E_Commerce.BLL.EcommerceService.AddProductInCart(AddProductInCartModel model, Int32 CustomerId) in D:\\Om S\\My Projects\\E-Commerce\\E-Commerce.BLL\\EcommerceService.cs:line 63\r\n   at E_Commerce.Controllers.EcommerceController.AddProductInCart(AddProductInCartModel model) in D:\\Om S\\My Projects\\E-Commerce\\E-Commerce\\Controllers\\EcommerceController.cs:line 214","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":null,"HResult":-2146232060,"Source":"Core .Net SqlClient Data Provider","WatsonBuckets":null,"Errors":null,"ClientConnectionId":"92335049-a191-4fef-9887-69f260a7ae6d"}
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :11-09-2023 07:17:37 AM
+Response UTC :11-09-2023 07:18:28 AM
+Request:{"ProductId":10,"Quentity":3}
+Response:{"Status":{"Message":"Something went wrong.","Code":1}}
+Exception:{"ClassName":"System.IndexOutOfRangeException","Message":"An SqlParameter with ParameterName '@Id' is not contained by this SqlParameterCollection.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Data.SqlClient.SqlParameterCollection.GetParameter(String parameterName)\r\n   at System.Data.SqlClient.SqlParameterCollection.get_Item(String parameterName)\r\n   at E_Commerce.DAL.EcommerceRepository.AddProductInCart(AddProductInCartModel model, Int32 CustomerId) in D:\\Om S\\My Projects\\E-Commerce\\E-Commerce.DAL\\EcommerceRepository.cs:line 217\r\n   at E_Commerce.BLL.EcommerceService.AddProductInCart(AddProductInCartModel model, Int32 CustomerId) in D:\\Om S\\My Projects\\E-Commerce\\E-Commerce.BLL\\EcommerceService.cs:line 63\r\n   at E_Commerce.Controllers.EcommerceController.AddProductInCart(AddProductInCartModel model) in D:\\Om S\\My Projects\\E-Commerce\\E-Commerce\\Controllers\\EcommerceController.cs:line 214","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":null,"HResult":-2146233080,"Source":"System.Data.SqlClient","WatsonBuckets":null}
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :11-09-2023 07:18:53 AM
+Response UTC :11-09-2023 07:21:23 AM
+Request:{"ProductId":10,"Quentity":3}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :11-09-2023 07:25:40 AM
+Response UTC :11-09-2023 07:25:46 AM
+Request:{"ProductId":10,"Quentity":3}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :11-09-2023 07:26:04 AM
+Response UTC :11-09-2023 07:26:04 AM
+Request:{"ProductId":15,"Quentity":4}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :11-09-2023 07:26:16 AM
+Response UTC :11-09-2023 07:26:16 AM
+Request:{"ProductId":256,"Quentity":12}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :11-09-2023 07:28:16 AM
+Response UTC :11-09-2023 07:28:16 AM
+Request:{"ProductId":256,"Quentity":12}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :11-09-2023 07:28:28 AM
+Response UTC :11-09-2023 07:28:28 AM
+Request:{"ProductId":256,"Quentity":12}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :11-09-2023 07:28:42 AM
+Response UTC :11-09-2023 07:28:42 AM
+Request:{"ProductId":963,"Quentity":2}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+
+*******************************************************************
+Method :AddProductInCart
+Request UTC :11-09-2023 07:28:43 AM
+Response UTC :11-09-2023 07:28:43 AM
+Request:{"ProductId":963,"Quentity":2}
+Response:{"Status":{"Message":"Product added in the cart successfully.","Code":0}}
+Exception:NO SYSTEM ERROR
+

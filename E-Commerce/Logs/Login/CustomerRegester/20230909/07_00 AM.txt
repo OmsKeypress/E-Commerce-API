@@ -1,0 +1,20 @@
+*******************************************************************
+Request UTC: 09-09-2023 07:07:41 AM
+Response UTC: 09-09-2023 07:07:41 AM
+HTTP Status Code: OK
+Request: {"CustomerName":"Sam Willsen","Password":"S@m15146","MobileNo":"98745632103","Email":"Sam@Gmail.com","Info":"","Ip":""}
+Response:{"Status":{"Message":"Please enter Valid Phone number.","Code":2}}
+OTPRException:NO SYSTEM ERROR
+Ip Info Exception:NO IP INFO ERROR
+Hub Exception:NO SIGNALR ERROR
+
+*******************************************************************
+Request UTC: 09-09-2023 07:07:55 AM
+Response UTC: 09-09-2023 07:07:56 AM
+HTTP Status Code: OK
+Request: {"CustomerName":"Sam Willsen","Password":"S@m15146","MobileNo":"9874563213","Email":"Sam@Gmail.com","Info":"","Ip":""}
+Response:{"Status":{"Message":"You have successfully registered","Code":0}}
+OTPRException:NO SYSTEM ERROR
+Ip Info Exception:NO IP INFO ERROR
+Hub Exception:NO SIGNALR ERROR
+

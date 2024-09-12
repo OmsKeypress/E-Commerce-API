@@ -1,0 +1,330 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce\\E-Commerce.csproj": {}
+  },
+  "projects": {
+    "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.BLL\\E-Commerce.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.BLL\\E-Commerce.BLL.csproj",
+        "projectName": "E-Commerce.BLL",
+        "projectPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.BLL\\E-Commerce.BLL.csproj",
+        "packagesPath": "C:\\Users\\KEY-05\\.nuget\\packages\\",
+        "outputPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KEY-05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
+                "projectPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.DAL\\E-Commerce.DAL.csproj"
+              },
+              "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.Model\\E-Commerce.Model.csproj": {
+                "projectPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.Model\\E-Commerce.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
+        "projectName": "E-Commerce.DAL",
+        "projectPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
+        "packagesPath": "C:\\Users\\KEY-05\\.nuget\\packages\\",
+        "outputPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KEY-05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.Model\\E-Commerce.Model.csproj": {
+                "projectPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.Model\\E-Commerce.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.Model\\E-Commerce.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.Model\\E-Commerce.Model.csproj",
+        "projectName": "E-Commerce.Model",
+        "projectPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.Model\\E-Commerce.Model.csproj",
+        "packagesPath": "C:\\Users\\KEY-05\\.nuget\\packages\\",
+        "outputPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KEY-05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce\\E-Commerce.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce\\E-Commerce.csproj",
+        "projectName": "E-Commerce",
+        "projectPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce\\E-Commerce.csproj",
+        "packagesPath": "C:\\Users\\KEY-05\\.nuget\\packages\\",
+        "outputPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KEY-05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.BLL\\E-Commerce.BLL.csproj": {
+                "projectPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.BLL\\E-Commerce.BLL.csproj"
+              },
+              "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
+                "projectPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.DAL\\E-Commerce.DAL.csproj"
+              },
+              "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.Model\\E-Commerce.Model.csproj": {
+                "projectPath": "D:\\Om S\\My Projects\\E-Commerce-API\\E-Commerce.Model\\E-Commerce.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.122, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.3, )"
+            },
+            "UAParser": {
+              "target": "Package",
+              "version": "[3.1.47, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

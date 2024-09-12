@@ -1,0 +1,12 @@
+D:\Om S\My Projects\E-Commerce\E-Commerce.Model\bin\Debug\net7.0\E-Commerce.Model.deps.json
+D:\Om S\My Projects\E-Commerce\E-Commerce.Model\bin\Debug\net7.0\E-Commerce.Model.dll
+D:\Om S\My Projects\E-Commerce\E-Commerce.Model\bin\Debug\net7.0\E-Commerce.Model.pdb
+D:\Om S\My Projects\E-Commerce\E-Commerce.Model\obj\Debug\net7.0\E-Commerce.Model.csproj.AssemblyReference.cache
+D:\Om S\My Projects\E-Commerce\E-Commerce.Model\obj\Debug\net7.0\E-Commerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Om S\My Projects\E-Commerce\E-Commerce.Model\obj\Debug\net7.0\E-Commerce.Model.AssemblyInfoInputs.cache
+D:\Om S\My Projects\E-Commerce\E-Commerce.Model\obj\Debug\net7.0\E-Commerce.Model.AssemblyInfo.cs
+D:\Om S\My Projects\E-Commerce\E-Commerce.Model\obj\Debug\net7.0\E-Commerce.Model.csproj.CoreCompileInputs.cache
+D:\Om S\My Projects\E-Commerce\E-Commerce.Model\obj\Debug\net7.0\E-Commerce.Model.dll
+D:\Om S\My Projects\E-Commerce\E-Commerce.Model\obj\Debug\net7.0\refint\E-Commerce.Model.dll
+D:\Om S\My Projects\E-Commerce\E-Commerce.Model\obj\Debug\net7.0\E-Commerce.Model.pdb
+D:\Om S\My Projects\E-Commerce\E-Commerce.Model\obj\Debug\net7.0\ref\E-Commerce.Model.dll
